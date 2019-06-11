@@ -20,4 +20,5 @@ function Headline(props) {
 // Props are rfc parameters
 // The component stays generic and we decide from the outside what it should render (or how it should behave)
 // "rendering a component" = having a component within the body of another component
-// Test2
+
+export default App;
